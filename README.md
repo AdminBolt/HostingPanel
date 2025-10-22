@@ -154,7 +154,7 @@ curl -sSL https://get.adminbolt.com/install.sh | bash
 
 4. **Access Your Panel**
    ```
-   https://your-server-ip:2083
+   https://your-server-ip:8443
    ```
 
 ### Installation Command
