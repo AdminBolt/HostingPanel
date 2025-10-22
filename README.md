@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AdminBolt Logo](https://via.placeholder.com/800x200/0066cc/ffffff?text=AdminBolt+-+Modern+Linux+Hosting+Panel)
+![AdminBolt Logo](logo/adminbolt.svg)
 
 **The Modern Linux Shared Hosting Control Panel**
 
@@ -43,7 +43,7 @@
 - **Subdomain Management** - Create and manage unlimited subdomains
 - **Email Accounts** - Full-featured email management with spam filtering
 - **FTP/SFTP Access** - Secure file transfer with user management
-- **Database Management** - MySQL/PostgreSQL with phpMyAdmin/pgAdmin
+- **Database Management** - MySQL/MariaDB with phpMyAdmin
 
 #### File Management
 - **File Manager** - Web-based file manager with drag-and-drop support
@@ -171,30 +171,45 @@ For detailed installation instructions, see our [Installation Guide](https://doc
 
 <div align="center">
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x500/f0f0f0/333333?text=Modern+Dashboard+View)
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
-*Clean and intuitive dashboard with quick access to all features*
+*Powerful administration dashboard with server overview and management tools*
+
+---
+
+### Client Dashboard
+![Client Dashboard](screenshots/client-dashboard.png)
+
+*Clean and intuitive client dashboard with quick access to all features*
+
+---
 
 ### File Manager
-![File Manager](https://via.placeholder.com/800x500/f0f0f0/333333?text=Advanced+File+Manager)
+![File Manager](screenshots/client-filemanager.png)
 
-*Powerful file manager with drag-and-drop support*
+*Advanced file manager with drag-and-drop support and code editor*
+
+---
 
 ### Email Management
-![Email Management](https://via.placeholder.com/800x500/f0f0f0/333333?text=Email+Management+Interface)
+![Email Accounts](screenshots/client-email-accounts.png)
 
-*Comprehensive email management system*
+*Comprehensive email account management with spam filtering and webmail*
 
-### Database Management
-![Database Management](https://via.placeholder.com/800x500/f0f0f0/333333?text=Database+Management)
+---
 
-*Easy database creation and management*
+### WordPress Installer
+![WordPress Installer](screenshots/client-wordpress-installer.png)
 
-### Admin Panel
-![Admin Panel](https://via.placeholder.com/800x500/f0f0f0/333333?text=Server+Administration+Panel)
+*One-click application installer for popular CMS platforms*
 
-*Powerful WHM-like administration interface*
+---
+
+### Domain Statistics
+![Domain Visitors](screenshots/client-domain-visitors.png)
+
+*Detailed visitor statistics and analytics for your domains*
 
 </div>
 
@@ -223,7 +238,7 @@ adminbolt migrate --from cpanel --source-server 192.168.1.100
 Features:
 - ✅ Accounts and packages
 - ✅ Websites and domains
-- ✅ Databases (MySQL/PostgreSQL)
+- ✅ Databases (MySQL/MariaDB)
 - ✅ Email accounts and filters
 - ✅ DNS zones
 - ✅ SSL certificates
