@@ -15,6 +15,8 @@
 
 </div>
 
+![Client Dashboard](screenshots/client-dashboard.png)
+
 ---
 
 ## 🌟 Overview
