@@ -321,7 +321,7 @@ For feature requests and feedback, please contact our team at contact@adminbolt.
 
 ## 🔐 Security
 
-Security is our top priority. If you discover a security vulnerability, please email security@adminbolt.com. 
+Security is our top priority. If you discover a security vulnerability, please email contact@adminbolt.com. 
 
 For more information, see our [Security Policy](SECURITY.md).
 
@@ -347,10 +347,10 @@ For licensing inquiries, contact contact@adminbolt.com.
 - 📧 Email: support@adminbolt.com
 - 🎫 Support tickets via billing portal
 
-### Professional Services
+<!-- ### Professional Services
 - 🚀 Migration Services
 - 📚 Training and Onboarding
-- 🏢 Enterprise Support
+- 🏢 Enterprise Support -->
 
 Contact: contact@adminbolt.com
 
