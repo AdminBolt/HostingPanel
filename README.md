@@ -219,9 +219,9 @@ For detailed installation instructions, see our [Installation Guide](https://doc
 
 Comprehensive documentation is available to help you get the most out of AdminBolt:
 
-- 📖 [User Guide](https://docs.adminbolt.com/user-guide) - For end users
-- 🛠️ [Administrator Guide](https://docs.adminbolt.com/admin-guide) - For server admins
-- 🔌 [API Documentation](https://docs.adminbolt.com/api) - For developers
+- 📖 [User Guide](https://docs.adminbolt.com) - For end users
+- 🛠️ [Administrator Guide](https://docs.adminbolt.com) - For server admins
+- 🔌 [API Documentation](https://docs.adminbolt.com) - For developers
 <!-- - 🎓 [Video Tutorials](https://docs.adminbolt.com/tutorials) - Step-by-step videos -->
 <!-- - ❓ [FAQ](https://docs.adminbolt.com/faq) - Frequently asked questions -->
 
@@ -373,7 +373,7 @@ AdminBolt is focused on providing enterprise-grade hosting control panel solutio
 
 **Made with ❤️ by the AdminBolt Team**
 
-[Get Started Now](https://adminbolt.com) | [Request Demo](https://adminbolt.com/demo) | [View Pricing](https://adminbolt.com/pricing)
+[Get Started Now](https://adminbolt.com) | [Request Demo](https://adminbolt.com/) | [View Pricing](https://billing.adminbolt.com)
 
 </div>
 
