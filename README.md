@@ -201,13 +201,6 @@ For detailed installation instructions, see our [Installation Guide](https://doc
 
 ---
 
-### WordPress Installer
-![WordPress Installer](screenshots/client-wordpress-installer.png)
-
-*One-click application installer for popular CMS platforms*
-
----
-
 ### Domain Statistics
 ![Domain Visitors](screenshots/client-domain-visitors.png)
 
@@ -301,11 +294,9 @@ Secure, scalable solution for managing internal hosting infrastructure with adva
 
 ### 2026 Roadmap
 - [ ] Additional OS support (Rocky Linux, Ubuntu, Debian, CentOS)
-- [ ] Docker container management
 - [ ] Node.js application manager
 - [ ] Python environment manager
 - [ ] Advanced security dashboard
-- [ ] Mobile app (iOS/Android)
 - [ ] Multi-server clustering
 - [ ] Advanced analytics
 
