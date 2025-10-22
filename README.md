@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/website-adminbolt.com-blue.svg)](https://adminbolt.com)
 [![Documentation](https://img.shields.io/badge/docs-documentation-green.svg)](https://docs.adminbolt.com)
-[![Support](https://img.shields.io/badge/support-24%2F7-brightgreen.svg)](https://support.adminbolt.com)
+<!-- [![Support](https://img.shields.io/badge/support-24%2F7-brightgreen.svg)](https://support.adminbolt.com) -->
 
 [Features](#-features) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Documentation](#-documentation) • [Support](#-support)
 
@@ -340,6 +340,7 @@ For licensing inquiries, contact contact@adminbolt.com.
 
 ### Support Resources
 - 💬 [Community Forum](https://community.adminbolt.com)
+- 💬 [Discord Community](https://discord.com/invite/WbYw3fsu)
 - 📚 [Documentation](https://docs.adminbolt.com)
 - 💳 [Billing Portal](https://billing.adminbolt.com)
 
@@ -361,6 +362,7 @@ Contact: contact@adminbolt.com
 - **Website**: [https://adminbolt.com](https://adminbolt.com)
 - **Documentation**: [https://docs.adminbolt.com](https://docs.adminbolt.com)
 - **Community Forum**: [https://community.adminbolt.com](https://community.adminbolt.com)
+- **Discord Community**: [https://discord.com/invite/WbYw3fsu](https://discord.com/invite/WbYw3fsu)
 - **Billing Portal**: [https://billing.adminbolt.com](https://billing.adminbolt.com)
 
 ---
