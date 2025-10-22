@@ -163,7 +163,7 @@ curl -sSL https://get.adminbolt.com/install.sh | bash
 curl -sSL https://get.adminbolt.com/install.sh
 ```
 
-For detailed installation instructions, see our [Installation Guide](https://docs.adminbolt.com/installation).
+For detailed installation instructions, see our [Installation Guide](https://docs.adminbolt.com/installation.html).
 
 ---
 
@@ -245,7 +245,7 @@ Features:
 - ✅ Cron jobs
 - ✅ FTP accounts
 
-[Read the Migration Guide](https://docs.adminbolt.com/migration/cpanel)
+<!-- [Read the Migration Guide](https://docs.adminbolt.com/migration/cpanel) -->
 
 ---
 
