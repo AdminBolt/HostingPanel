@@ -1,10 +1,8 @@
-# AdminBolt 🚀
-
 <div align="center">
 
 ![AdminBolt Logo](logo/adminbolt-dark.svg)
 
-**The Modern Linux Shared Hosting Control Panel**
+**AdminBolt - The Modern Linux Shared Hosting Control Panel**
 
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/website-adminbolt.com-blue.svg)](https://adminbolt.com)
