@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AdminBolt Logo](logo/adminbolt.svg)
+![AdminBolt Logo](logo/adminbolt-dark.svg)
 
 **The Modern Linux Shared Hosting Control Panel**
 
