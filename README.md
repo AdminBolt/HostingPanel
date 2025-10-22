@@ -268,9 +268,8 @@ Modern developer tools including Git integration, multiple PHP versions, and Nod
 ### Enterprises
 Secure, scalable solution for managing internal hosting infrastructure with advanced monitoring.
 
----
 
-## 🆚 AdminBolt vs cPanel
+<!-- ## 🆚 AdminBolt vs cPanel
 
 | Feature | AdminBolt | cPanel |
 |---------|-----------|--------|
@@ -285,7 +284,7 @@ Secure, scalable solution for managing internal hosting infrastructure with adva
 | **Mobile Responsive** | ✅ Fully responsive | ⚠️ Partially |
 | **Dark Mode** | ✅ Yes | ❌ No |
 | **Free SSL** | ✅ Let's Encrypt | ✅ AutoSSL |
-| **Migration Tools** | ✅ Free | 💰 Paid |
+| **Migration Tools** | ✅ Free | 💰 Paid | -->
 
 ---
 
